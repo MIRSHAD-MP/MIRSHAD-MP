@@ -1,3 +1,6 @@
+<p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
+<p align="center"><i>- Aaron Swartz (2013 ~ 1986) -</i></p>
+
 ### <samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Mirshad Mp</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 Full Stack Developer
