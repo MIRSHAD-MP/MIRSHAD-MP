@@ -35,9 +35,6 @@ My work coincides with my hobby, and I really love my hobby, so when I develop s
 <a href="https://www.buymeacoffee.com/mirshadmp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" width="100" ></a>
 
 
-
-### Badges
-
 <div align="center">
 <b>My GitHub Stats</b>
 
