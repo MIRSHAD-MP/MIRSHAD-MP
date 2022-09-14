@@ -1,6 +1,3 @@
-<p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
-<p align="center"><i>- Aaron Swartz (2013 ~ 1986) -</i></p>
-
 ### <samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Mirshad Mp</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 Full Stack Developer
@@ -43,3 +40,6 @@ My work coincides with my hobby, and I really love my hobby, so when I develop s
 
 <a href="http://www.github.com/MIRSHAD-MP"><img src="https://github-readme-stats.vercel.app/api?username=MIRSHAD-MP&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MIRSHAD-MP's GitHub stats" /></a>
 </div>
+
+<p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
+<p align="center"><i>- Aaron Swartz (2013 ~ 1986) -</i></p>
