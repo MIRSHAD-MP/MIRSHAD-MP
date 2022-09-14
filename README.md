@@ -39,7 +39,7 @@ My work coincides with my hobby, and I really love my hobby, so when I develop s
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/MIRSHAD-MP"><img src="https://github-readme-stats.vercel.app/api?username=MIRSHAD-MP&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MIRSHAD-MP's GitHub stats" /></a>
-</div>
+</div><br>
 
-<p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
-<p align="center"><i>- Aaron Swartz (2013 ~ 1986) -</i></p>
+<p align="center"><i>“All of my friends who have younger siblings who are going to college or high school - my number one piece of advice is : You should learn how to program.”</i></p>
+<p align="center"><i>-  Mark Elliot Zuckerberg -</i></p>
