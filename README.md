@@ -11,10 +11,12 @@ Full Stack Developer
 --------------------
 
 My work coincides with my hobby, and I really love my hobby, so when I develop software I give myself completely to work.
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+
 
 * 🌍  I'm based in Kozhikode
 * ✉️  You can contact me at [mirshadmp50@gmail.com](mailto:mirshadmp50@gmail.com)
-* 🧠  I'm learning React<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif">
+* 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I Am Programmer, Tell Everyone
 
