@@ -14,7 +14,8 @@ My work coincides with my hobby, and I really love my hobby, so when I develop s
 
 * 🌍  I'm based in Kozhikode
 * ✉️  You can contact me at [mirshadmp50@gmail.com](mailto:mirshadmp50@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning React <p align="center">
+<img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I Am Programmer, Tell Everyone
 
